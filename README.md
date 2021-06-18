@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @universoreis
+- 👀 I’m interested in python 
+- 🌱 I’m currently learning python and data science
+- 💞️ I’m looking to collaborate on python
+- 📫 find me in twitter @universoreis
